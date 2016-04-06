@@ -1,0 +1,28 @@
+name: Lux Boutique Hotels
+favicon: null
+layout_spectrum: 0.29786356282420456
+typography_spectrum: 0.5223769005388021
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.40195711934939027
+  lightness: 0.24851057562045753
+  saturation: 0.6492220247164369
+  rhythmicContrast: 0.42739873845130205
+purpose: []
